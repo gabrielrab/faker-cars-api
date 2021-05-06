@@ -14,7 +14,7 @@ app.use(function (req, res, next) {
 app.use(express.json());
 
 app.get("/cars", controller.index);
-app.get("/car/:id", controller.show);
+//app.get("/car/:id", controller.show);
 
 app.listen(process.env.PORT || 3000, () => {
   console.log("Server running");
