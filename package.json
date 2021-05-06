@@ -1,0 +1,21 @@
+{
+  "name": "faker-cars-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gabrielrab/faker-cars-api.git",
+  "author": "Gabriel Rabelo <@gabrielrab>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "faker": "^5.5.3",
+    "lowdb": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

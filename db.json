@@ -1,0 +1,904 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Chrysler Accord",
+      "type": "Sedan",
+      "color": "maroon",
+      "fuel": "Hybrid",
+      "vrm": "KQ82DVM",
+      "vin": "E7WH1PPR21WX21617"
+    },
+    {
+      "id": 2,
+      "name": "Audi Grand Caravan",
+      "type": "Passenger Van",
+      "color": "sky blue",
+      "fuel": "Gasoline",
+      "vrm": "FA71KSV",
+      "vin": "FHJDGNJAM3R392095"
+    },
+    {
+      "id": 3,
+      "name": "Mini XTS",
+      "type": "Crew Cab Pickup",
+      "color": "orange",
+      "fuel": "Electric",
+      "vrm": "NR44OIE",
+      "vin": "YGZJ06GMU7YY86609"
+    },
+    {
+      "id": 4,
+      "name": "Aston Martin Grand Caravan",
+      "type": "Cargo Van",
+      "color": "grey",
+      "fuel": "Diesel",
+      "vrm": "GJ53ZTI",
+      "vin": "9FPZDDZ9UNZB47074"
+    },
+    {
+      "id": 5,
+      "name": "Ferrari Model S",
+      "type": "Crew Cab Pickup",
+      "color": "sky blue",
+      "fuel": "Hybrid",
+      "vrm": "II80RFG",
+      "vin": "ZJTTL0B4Y9GE69649"
+    },
+    {
+      "id": 6,
+      "name": "Volkswagen Corvette",
+      "type": "Extended Cab Pickup",
+      "color": "purple",
+      "fuel": "Electric",
+      "vrm": "BF19YKY",
+      "vin": "FU27LJJ65AG676631"
+    },
+    {
+      "id": 7,
+      "name": "Volvo Silverado",
+      "type": "Extended Cab Pickup",
+      "color": "green",
+      "fuel": "Hybrid",
+      "vrm": "VY68FJK",
+      "vin": "81KPM3WHDTUR71587"
+    },
+    {
+      "id": 8,
+      "name": "Mini XC90",
+      "type": "Wagon",
+      "color": "blue",
+      "fuel": "Diesel",
+      "vrm": "QT58GFR",
+      "vin": "ADEXBPMLZ6E877207"
+    },
+    {
+      "id": 9,
+      "name": "Nissan Wrangler",
+      "type": "Cargo Van",
+      "color": "sky blue",
+      "fuel": "Diesel",
+      "vrm": "YY85YXY",
+      "vin": "7CLC66G8VLY479531"
+    },
+    {
+      "id": 10,
+      "name": "Polestar Land Cruiser",
+      "type": "Passenger Van",
+      "color": "fuchsia",
+      "fuel": "Gasoline",
+      "vrm": "RB72ANS",
+      "vin": "THC3HPR8L3BT58193"
+    },
+    {
+      "id": 11,
+      "name": "Hyundai CTS",
+      "type": "Wagon",
+      "color": "ivory",
+      "fuel": "Hybrid",
+      "vrm": "OC25YTX",
+      "vin": "4SCSSVGL04CZ95159"
+    },
+    {
+      "id": 12,
+      "name": "Bentley Alpine",
+      "type": "Extended Cab Pickup",
+      "color": "indigo",
+      "fuel": "Hybrid",
+      "vrm": "ZO48SCQ",
+      "vin": "99NCJUMCALPV86373"
+    },
+    {
+      "id": 13,
+      "name": "Rolls Royce Fiesta",
+      "type": "Crew Cab Pickup",
+      "color": "olive",
+      "fuel": "Diesel",
+      "vrm": "WG23VCP",
+      "vin": "4R1NM2PW5FMK73855"
+    },
+    {
+      "id": 14,
+      "name": "Polestar CTS",
+      "type": "Wagon",
+      "color": "pink",
+      "fuel": "Hybrid",
+      "vrm": "OG89GDR",
+      "vin": "8F4T06J6VYJ488738"
+    },
+    {
+      "id": 15,
+      "name": "Mini Golf",
+      "type": "Wagon",
+      "color": "white",
+      "fuel": "Electric",
+      "vrm": "BM58GJY",
+      "vin": "VT8L3N974KB037596"
+    },
+    {
+      "id": 16,
+      "name": "Jeep Alpine",
+      "type": "SUV",
+      "color": "violet",
+      "fuel": "Diesel",
+      "vrm": "DY71SVK",
+      "vin": "MXD42B03HLSP44241"
+    },
+    {
+      "id": 17,
+      "name": "Mazda Civic",
+      "type": "Extended Cab Pickup",
+      "color": "azure",
+      "fuel": "Diesel",
+      "vrm": "II47EMZ",
+      "vin": "PBCRVDCGX2CL10517"
+    },
+    {
+      "id": 18,
+      "name": "Honda Model S",
+      "type": "Sedan",
+      "color": "lime",
+      "fuel": "Diesel",
+      "vrm": "AS38CYL",
+      "vin": "23MM44S039XW70591"
+    },
+    {
+      "id": 19,
+      "name": "Bentley Model T",
+      "type": "SUV",
+      "color": "gold",
+      "fuel": "Electric",
+      "vrm": "QT58DGI",
+      "vin": "9TZH144EPMUD47690"
+    },
+    {
+      "id": 20,
+      "name": "Bentley Sentra",
+      "type": "Sedan",
+      "color": "lavender",
+      "fuel": "Hybrid",
+      "vrm": "BM06LPZ",
+      "vin": "EYVR813WRKDB48964"
+    },
+    {
+      "id": 21,
+      "name": "Hyundai Beetle",
+      "type": "Wagon",
+      "color": "purple",
+      "fuel": "Hybrid",
+      "vrm": "UX03EMT",
+      "vin": "339P2GH05KCL65462"
+    },
+    {
+      "id": 22,
+      "name": "Mazda Model S",
+      "type": "SUV",
+      "color": "lime",
+      "fuel": "Electric",
+      "vrm": "CM82VJW",
+      "vin": "JR609PN4A1HN57343"
+    },
+    {
+      "id": 23,
+      "name": "Dodge Land Cruiser",
+      "type": "Passenger Van",
+      "color": "olive",
+      "fuel": "Gasoline",
+      "vrm": "WW55BGD",
+      "vin": "2J8910MGHNN794201"
+    },
+    {
+      "id": 24,
+      "name": "Lamborghini Golf",
+      "type": "Hatchback",
+      "color": "salmon",
+      "fuel": "Diesel",
+      "vrm": "XU26OKF",
+      "vin": "FVBD3WZ1K0VN94032"
+    },
+    {
+      "id": 25,
+      "name": "BMW Countach",
+      "type": "SUV",
+      "color": "sky blue",
+      "fuel": "Hybrid",
+      "vrm": "YE47JPG",
+      "vin": "UR29FZKSDDEB82674"
+    },
+    {
+      "id": 26,
+      "name": "Honda Focus",
+      "type": "SUV",
+      "color": "yellow",
+      "fuel": "Gasoline",
+      "vrm": "PQ17OXP",
+      "vin": "ESGG5AYKL1T562051"
+    },
+    {
+      "id": 27,
+      "name": "Bugatti Altima",
+      "type": "Minivan",
+      "color": "green",
+      "fuel": "Diesel",
+      "vrm": "AI05EJE",
+      "vin": "20N4AP9B5DBY20448"
+    },
+    {
+      "id": 28,
+      "name": "Dodge Cruze",
+      "type": "Passenger Van",
+      "color": "orange",
+      "fuel": "Electric",
+      "vrm": "WJ32DWS",
+      "vin": "VJLYGY0V56TB94171"
+    },
+    {
+      "id": 29,
+      "name": "Rolls Royce Mercielago",
+      "type": "Cargo Van",
+      "color": "red",
+      "fuel": "Electric",
+      "vrm": "PE17BOD",
+      "vin": "XWX05AHHBDVD18894"
+    },
+    {
+      "id": 30,
+      "name": "Polestar LeBaron",
+      "type": "Hatchback",
+      "color": "black",
+      "fuel": "Electric",
+      "vrm": "CO76IKL",
+      "vin": "Z3ZPDGLF43SC91506"
+    },
+    {
+      "id": 31,
+      "name": "Lamborghini Malibu",
+      "type": "Cargo Van",
+      "color": "purple",
+      "fuel": "Diesel",
+      "vrm": "TO11KAM",
+      "vin": "8XG38L77V9LK48892"
+    },
+    {
+      "id": 32,
+      "name": "Lamborghini Camry",
+      "type": "Passenger Van",
+      "color": "plum",
+      "fuel": "Diesel",
+      "vrm": "GU09ZLE",
+      "vin": "MMZVAPWPP7J854861"
+    },
+    {
+      "id": 33,
+      "name": "Hyundai Fiesta",
+      "type": "Coupe",
+      "color": "olive",
+      "fuel": "Gasoline",
+      "vrm": "MZ81BVM",
+      "vin": "GL3A1ZHV84KS11028"
+    },
+    {
+      "id": 34,
+      "name": "Volvo Beetle",
+      "type": "SUV",
+      "color": "indigo",
+      "fuel": "Gasoline",
+      "vrm": "HD87IWQ",
+      "vin": "KA5SR0RU0AK928919"
+    },
+    {
+      "id": 35,
+      "name": "Chrysler Focus",
+      "type": "Sedan",
+      "color": "mint green",
+      "fuel": "Electric",
+      "vrm": "SQ78ELZ",
+      "vin": "ZE0S1VVR8JJG72925"
+    },
+    {
+      "id": 36,
+      "name": "Audi Challenger",
+      "type": "Sedan",
+      "color": "salmon",
+      "fuel": "Electric",
+      "vrm": "JD55JXN",
+      "vin": "TC3WVX1CT9L442618"
+    },
+    {
+      "id": 37,
+      "name": "Audi Roadster",
+      "type": "Coupe",
+      "color": "orchid",
+      "fuel": "Hybrid",
+      "vrm": "QH09DCN",
+      "vin": "2ZTAA7TFH8LE93033"
+    },
+    {
+      "id": 38,
+      "name": "Maserati El Camino",
+      "type": "Coupe",
+      "color": "black",
+      "fuel": "Diesel",
+      "vrm": "UW30ZHB",
+      "vin": "LEUX1XWG94CE81260"
+    },
+    {
+      "id": 39,
+      "name": "Mazda 1",
+      "type": "Convertible",
+      "color": "purple",
+      "fuel": "Electric",
+      "vrm": "GR46AZJ",
+      "vin": "RMSY07T2YFAZ64366"
+    },
+    {
+      "id": 40,
+      "name": "Hyundai Fiesta",
+      "type": "Extended Cab Pickup",
+      "color": "fuchsia",
+      "fuel": "Gasoline",
+      "vrm": "XT67XUB",
+      "vin": "AVVT6XWBXCBV67107"
+    },
+    {
+      "id": 41,
+      "name": "Aston Martin Fortwo",
+      "type": "Wagon",
+      "color": "salmon",
+      "fuel": "Hybrid",
+      "vrm": "LI02PUZ",
+      "vin": "VWHW4RJDBVDZ63953"
+    },
+    {
+      "id": 42,
+      "name": "Chevrolet Civic",
+      "type": "Hatchback",
+      "color": "black",
+      "fuel": "Hybrid",
+      "vrm": "KM38QTV",
+      "vin": "FF3H9EY2D5ZG14735"
+    },
+    {
+      "id": 43,
+      "name": "Maserati Charger",
+      "type": "Passenger Van",
+      "color": "blue",
+      "fuel": "Hybrid",
+      "vrm": "BB75MDG",
+      "vin": "9VPC7KKCMRV422128"
+    },
+    {
+      "id": 44,
+      "name": "Mercedes Benz El Camino",
+      "type": "SUV",
+      "color": "fuchsia",
+      "fuel": "Electric",
+      "vrm": "ZM07IJO",
+      "vin": "DHDSAJGAVKKY44999"
+    },
+    {
+      "id": 45,
+      "name": "Maserati Wrangler",
+      "type": "Wagon",
+      "color": "tan",
+      "fuel": "Hybrid",
+      "vrm": "LN21LYA",
+      "vin": "2KX39FKMFGWW80624"
+    },
+    {
+      "id": 46,
+      "name": "Polestar Model T",
+      "type": "Passenger Van",
+      "color": "orange",
+      "fuel": "Electric",
+      "vrm": "EW17RJE",
+      "vin": "7KFKU430USH464859"
+    },
+    {
+      "id": 47,
+      "name": "BMW Corvette",
+      "type": "Convertible",
+      "color": "orchid",
+      "fuel": "Hybrid",
+      "vrm": "PT69QVC",
+      "vin": "6LNE5G7MSYDJ87936"
+    },
+    {
+      "id": 48,
+      "name": "Aston Martin Camaro",
+      "type": "Extended Cab Pickup",
+      "color": "maroon",
+      "fuel": "Electric",
+      "vrm": "MU29QWN",
+      "vin": "R7CZJ9G1TVW721905"
+    },
+    {
+      "id": 49,
+      "name": "Hyundai Mercielago",
+      "type": "Sedan",
+      "color": "ivory",
+      "fuel": "Electric",
+      "vrm": "GX47MKO",
+      "vin": "FDJ9D8RMK8JK68204"
+    },
+    {
+      "id": 50,
+      "name": "Bugatti XC90",
+      "type": "Passenger Van",
+      "color": "silver",
+      "fuel": "Diesel",
+      "vrm": "DY91SBN",
+      "vin": "MT0FVTWBCZHR97893"
+    },
+    {
+      "id": 51,
+      "name": "Chrysler Sentra",
+      "type": "Wagon",
+      "color": "sky blue",
+      "fuel": "Diesel",
+      "vrm": "BC96TMU",
+      "vin": "P2XPD5URNGYD29028"
+    },
+    {
+      "id": 52,
+      "name": "Ford 1",
+      "type": "Minivan",
+      "color": "violet",
+      "fuel": "Electric",
+      "vrm": "TZ78PUD",
+      "vin": "NF9XF9X061TX49145"
+    },
+    {
+      "id": 53,
+      "name": "Kia 911",
+      "type": "SUV",
+      "color": "turquoise",
+      "fuel": "Gasoline",
+      "vrm": "AP98CAS",
+      "vin": "3XSHCT2V7ESR22253"
+    },
+    {
+      "id": 54,
+      "name": "Nissan Aventador",
+      "type": "Coupe",
+      "color": "tan",
+      "fuel": "Hybrid",
+      "vrm": "YT87GKG",
+      "vin": "V0BS44JC9UA194441"
+    },
+    {
+      "id": 55,
+      "name": "Cadillac Aventador",
+      "type": "SUV",
+      "color": "blue",
+      "fuel": "Diesel",
+      "vrm": "TP25ZDU",
+      "vin": "RK6RVSH2L2F733302"
+    },
+    {
+      "id": 56,
+      "name": "Ford Malibu",
+      "type": "Extended Cab Pickup",
+      "color": "maroon",
+      "fuel": "Diesel",
+      "vrm": "GT05QOB",
+      "vin": "YYJ8VFER7UAP59792"
+    },
+    {
+      "id": 57,
+      "name": "Audi Element",
+      "type": "Crew Cab Pickup",
+      "color": "sky blue",
+      "fuel": "Hybrid",
+      "vrm": "EH57IJN",
+      "vin": "FK8DTV779WLZ79153"
+    },
+    {
+      "id": 58,
+      "name": "Jeep El Camino",
+      "type": "Wagon",
+      "color": "cyan",
+      "fuel": "Hybrid",
+      "vrm": "TC07JRX",
+      "vin": "2LNGBAADF2EX56887"
+    },
+    {
+      "id": 59,
+      "name": "Lamborghini Sentra",
+      "type": "Crew Cab Pickup",
+      "color": "indigo",
+      "fuel": "Diesel",
+      "vrm": "SA01DXP",
+      "vin": "L5XKHAMY7PPL79926"
+    },
+    {
+      "id": 60,
+      "name": "BMW F-150",
+      "type": "Crew Cab Pickup",
+      "color": "black",
+      "fuel": "Hybrid",
+      "vrm": "MS54ACW",
+      "vin": "MXV96AZCCDZW29891"
+    },
+    {
+      "id": 61,
+      "name": "Tesla 911",
+      "type": "Convertible",
+      "color": "mint green",
+      "fuel": "Gasoline",
+      "vrm": "WQ24MDZ",
+      "vin": "3G0MCHN59ZZD53274"
+    },
+    {
+      "id": 62,
+      "name": "Smart 911",
+      "type": "Cargo Van",
+      "color": "lavender",
+      "fuel": "Hybrid",
+      "vrm": "HJ09BZX",
+      "vin": "FYPG8YBDU9PY54341"
+    },
+    {
+      "id": 63,
+      "name": "Jeep Fortwo",
+      "type": "Cargo Van",
+      "color": "grey",
+      "fuel": "Diesel",
+      "vrm": "CD57QXT",
+      "vin": "4DGGJHH5NJJK72930"
+    },
+    {
+      "id": 64,
+      "name": "Maserati Altima",
+      "type": "Passenger Van",
+      "color": "turquoise",
+      "fuel": "Hybrid",
+      "vrm": "GU90VPN",
+      "vin": "K6M6BUHX00HW72516"
+    },
+    {
+      "id": 65,
+      "name": "Smart Fortwo",
+      "type": "Coupe",
+      "color": "teal",
+      "fuel": "Diesel",
+      "vrm": "KC61FEH",
+      "vin": "XNPPY1HX2FX075801"
+    },
+    {
+      "id": 66,
+      "name": "Polestar Fiesta",
+      "type": "Hatchback",
+      "color": "fuchsia",
+      "fuel": "Hybrid",
+      "vrm": "ME04WHH",
+      "vin": "M20J1KC76XVD54763"
+    },
+    {
+      "id": 67,
+      "name": "Porsche Expedition",
+      "type": "Wagon",
+      "color": "blue",
+      "fuel": "Diesel",
+      "vrm": "FY29JQC",
+      "vin": "UWDE1TSBLFP540058"
+    },
+    {
+      "id": 68,
+      "name": "Bentley Element",
+      "type": "Cargo Van",
+      "color": "red",
+      "fuel": "Gasoline",
+      "vrm": "OA30DWL",
+      "vin": "C6WFW2HV45TR80348"
+    },
+    {
+      "id": 69,
+      "name": "Kia Altima",
+      "type": "Coupe",
+      "color": "plum",
+      "fuel": "Electric",
+      "vrm": "OA03FXZ",
+      "vin": "VAVNM8PH1YMF49944"
+    },
+    {
+      "id": 70,
+      "name": "Hyundai Durango",
+      "type": "Wagon",
+      "color": "violet",
+      "fuel": "Diesel",
+      "vrm": "VL42HKV",
+      "vin": "5YWLUC32YRER25912"
+    },
+    {
+      "id": 71,
+      "name": "Lamborghini V90",
+      "type": "Coupe",
+      "color": "azure",
+      "fuel": "Hybrid",
+      "vrm": "OY18XWD",
+      "vin": "H56UW4CPFHCP52084"
+    },
+    {
+      "id": 72,
+      "name": "Smart CX-9",
+      "type": "Convertible",
+      "color": "ivory",
+      "fuel": "Gasoline",
+      "vrm": "HL55APY",
+      "vin": "72LUK5C4B4U734519"
+    },
+    {
+      "id": 73,
+      "name": "Porsche Mercielago",
+      "type": "Passenger Van",
+      "color": "yellow",
+      "fuel": "Electric",
+      "vrm": "QV45VLS",
+      "vin": "VMBAPPXGFLZ531751"
+    },
+    {
+      "id": 74,
+      "name": "Ford Malibu",
+      "type": "Extended Cab Pickup",
+      "color": "green",
+      "fuel": "Diesel",
+      "vrm": "JS46ZDA",
+      "vin": "25T3T7K6H5BU95211"
+    },
+    {
+      "id": 75,
+      "name": "Volkswagen Escalade",
+      "type": "Coupe",
+      "color": "magenta",
+      "fuel": "Electric",
+      "vrm": "GN26PWO",
+      "vin": "2DJCZWWDXXVU80421"
+    },
+    {
+      "id": 76,
+      "name": "Chevrolet Spyder",
+      "type": "Crew Cab Pickup",
+      "color": "maroon",
+      "fuel": "Electric",
+      "vrm": "DP47JSB",
+      "vin": "RRZSBDPLACDK99709"
+    },
+    {
+      "id": 77,
+      "name": "Audi Camry",
+      "type": "Sedan",
+      "color": "lime",
+      "fuel": "Gasoline",
+      "vrm": "FI55HQR",
+      "vin": "7S1SUVCZ85FN74944"
+    },
+    {
+      "id": 78,
+      "name": "Mazda 2",
+      "type": "SUV",
+      "color": "azure",
+      "fuel": "Diesel",
+      "vrm": "GF03BYW",
+      "vin": "9DE78F9JMJXA64523"
+    },
+    {
+      "id": 79,
+      "name": "Mini Altima",
+      "type": "Cargo Van",
+      "color": "sky blue",
+      "fuel": "Electric",
+      "vrm": "VY70AWE",
+      "vin": "SVF66X4D02AZ20788"
+    },
+    {
+      "id": 80,
+      "name": "Smart Model S",
+      "type": "Hatchback",
+      "color": "cyan",
+      "fuel": "Gasoline",
+      "vrm": "ZF84GPE",
+      "vin": "7PT6NNBC9KFJ38984"
+    },
+    {
+      "id": 81,
+      "name": "Toyota Fiesta",
+      "type": "Cargo Van",
+      "color": "pink",
+      "fuel": "Gasoline",
+      "vrm": "PJ63USV",
+      "vin": "H0KXBB94WUXV34946"
+    },
+    {
+      "id": 82,
+      "name": "Hyundai Durango",
+      "type": "Sedan",
+      "color": "blue",
+      "fuel": "Gasoline",
+      "vrm": "WJ96IPT",
+      "vin": "8GLSM172CGXM68566"
+    },
+    {
+      "id": 83,
+      "name": "Ferrari Sentra",
+      "type": "Crew Cab Pickup",
+      "color": "blue",
+      "fuel": "Electric",
+      "vrm": "RG85MAT",
+      "vin": "6MM6WP5UJ9TY33747"
+    },
+    {
+      "id": 84,
+      "name": "Fiat Malibu",
+      "type": "Minivan",
+      "color": "grey",
+      "fuel": "Diesel",
+      "vrm": "CE10HMQ",
+      "vin": "JG0P6JKRF0DK61682"
+    },
+    {
+      "id": 85,
+      "name": "Ford Expedition",
+      "type": "Wagon",
+      "color": "green",
+      "fuel": "Diesel",
+      "vrm": "RL84NKJ",
+      "vin": "B92PSXTWK2LT31796"
+    },
+    {
+      "id": 86,
+      "name": "Audi CX-9",
+      "type": "Sedan",
+      "color": "red",
+      "fuel": "Diesel",
+      "vrm": "TE79KNB",
+      "vin": "EHJCWJXN0ZLA66080"
+    },
+    {
+      "id": 87,
+      "name": "Tesla Ranchero",
+      "type": "Wagon",
+      "color": "plum",
+      "fuel": "Gasoline",
+      "vrm": "ND39LUW",
+      "vin": "AK5TS9CHYYEH82171"
+    },
+    {
+      "id": 88,
+      "name": "Bugatti Prius",
+      "type": "Hatchback",
+      "color": "white",
+      "fuel": "Diesel",
+      "vrm": "VI15GQM",
+      "vin": "F81GL4L7F1KY98496"
+    },
+    {
+      "id": 89,
+      "name": "Dodge Challenger",
+      "type": "Crew Cab Pickup",
+      "color": "yellow",
+      "fuel": "Electric",
+      "vrm": "VE23UAW",
+      "vin": "UH63K76AFENC37889"
+    },
+    {
+      "id": 90,
+      "name": "Nissan Cruze",
+      "type": "Crew Cab Pickup",
+      "color": "plum",
+      "fuel": "Diesel",
+      "vrm": "GK67UIK",
+      "vin": "HCKCY03UBZR276727"
+    },
+    {
+      "id": 91,
+      "name": "Bugatti Aventador",
+      "type": "Sedan",
+      "color": "maroon",
+      "fuel": "Hybrid",
+      "vrm": "JL29RMU",
+      "vin": "3G64DZ25SMYR38049"
+    },
+    {
+      "id": 92,
+      "name": "Ford Golf",
+      "type": "Extended Cab Pickup",
+      "color": "silver",
+      "fuel": "Diesel",
+      "vrm": "OH65HIR",
+      "vin": "00VFFADFCFYZ32938"
+    },
+    {
+      "id": 93,
+      "name": "Lamborghini Malibu",
+      "type": "Minivan",
+      "color": "magenta",
+      "fuel": "Electric",
+      "vrm": "AL41PUD",
+      "vin": "6RNY70685MM142862"
+    },
+    {
+      "id": 94,
+      "name": "Jeep Taurus",
+      "type": "Sedan",
+      "color": "orange",
+      "fuel": "Electric",
+      "vrm": "WJ05SZA",
+      "vin": "C5H8NF554MAS20153"
+    },
+    {
+      "id": 95,
+      "name": "Land Rover Corvette",
+      "type": "Coupe",
+      "color": "cyan",
+      "fuel": "Diesel",
+      "vrm": "AX84UYQ",
+      "vin": "SUV8D2YR18Y771305"
+    },
+    {
+      "id": 96,
+      "name": "BMW V90",
+      "type": "Sedan",
+      "color": "orchid",
+      "fuel": "Hybrid",
+      "vrm": "AU62EPC",
+      "vin": "75MXPGHF07BC55217"
+    },
+    {
+      "id": 97,
+      "name": "Mazda V90",
+      "type": "Minivan",
+      "color": "sky blue",
+      "fuel": "Gasoline",
+      "vrm": "VW68DNZ",
+      "vin": "KR7W5C55PKSV37710"
+    },
+    {
+      "id": 98,
+      "name": "Ford Fiesta",
+      "type": "Cargo Van",
+      "color": "silver",
+      "fuel": "Electric",
+      "vrm": "PF03DMA",
+      "vin": "Y8J4V2VUB2LE36152"
+    },
+    {
+      "id": 99,
+      "name": "Rolls Royce Charger",
+      "type": "Hatchback",
+      "color": "mint green",
+      "fuel": "Diesel",
+      "vrm": "OU04GQW",
+      "vin": "MCR5SWS987JS76203"
+    },
+    {
+      "id": 100,
+      "name": "Audi Camry",
+      "type": "Extended Cab Pickup",
+      "color": "lime",
+      "fuel": "Hybrid",
+      "vrm": "HZ16KOP",
+      "vin": "MFEZS5B10ABT63309"
+    }
+  ]
+}
